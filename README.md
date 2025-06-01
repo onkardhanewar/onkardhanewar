@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Onkar Dhanewar
 #### I am Programmer
-![I am Programmer](<iframe src="https://drive.google.com/file/d/1yTFjteEOLJlMUPFvygpQWTMdIgUgPMY4/preview" width="640" height="480" allow="autoplay"></iframe>)
+![I am Programmer](< src="https://drive.google.com/file/d/1yTFjteEOLJlMUPFvygpQWTMdIgUgPMY4/view?usp=sharing" width="640" height="480" allow="autoplay">)
 
 I’m Onkar Dhanewar, a passionate developer focused on system development, web technologies, and innovative digital tools. Currently exploring advanced C++, modern web frameworks, and database integration, I aim to build impactful, user-friendly solutions and collaborate on meaningful open-source projects.
 
