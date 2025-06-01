@@ -11,8 +11,20 @@ Skills: C++/ JS / HTML / CSS/ FIGMA
 - 📫 How to reach me: onkardhanewar@gmail.com 
 - 😄 Pronouns: he/him 
 
+<div style="overflow: hidden; margin-bottom: 20px;">
+  <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" 
+       alt="Looping GIF" 
+       style="width: 250px; height: auto; float: right; margin-left: 20px; border-radius: 8px;" />
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/onkardhanewar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/onkardhanewar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/onkardhanewar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/onkardhanewar)  
+
+
+
+[<img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" height="40"/>](https://github.com/onkardhanewar)
+[<img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" height="40"/>](https://www.linkedin.com/in/onkardhanewar/)
+[<img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" alt="Instagram" height="40"/>](https://www.instagram.com/onkardhanewar/)
+[<img src="https://img.icons8.com/ios-filled/50/ffffff/twitter.png" alt="Twitter" height="40"/>](https://twitter.com/onkardhanewar)
+
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
