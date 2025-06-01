@@ -15,7 +15,6 @@
 📸 Instagram: https://www.instagram.com/onkar_dhanewar
 
 
-https://github.com/user-attachments/assets/52e9e34b-ac4b-4374-8740-9b50c1ee7009
 
 💬 Telegram: https://web.telegram.org/k/
 
