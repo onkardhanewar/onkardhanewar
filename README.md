@@ -11,12 +11,7 @@ Skills: C++/ JS / HTML / CSS/ FIGMA
 - 📫 How to reach me: onkardhanewar@gmail.com 
 - 😄 Pronouns: he/him 
 
-<div style="overflow: hidden; margin-bottom: 20px;">
-  <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" 
-       alt="Looping GIF" 
-       style="width: 250px; height: auto; float: right; margin-left: 20px; border-radius: 8px;" />
-</div>
-
+ 
 ![Halloween Cat](https://cdnl.iconscout.com/lottie/premium/thumb/halloween-cat-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--animal-black-evil-pet-scary-pack-festival-days-icons-9417347.gif)
 
 
