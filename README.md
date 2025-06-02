@@ -17,6 +17,7 @@ Skills: C++/ JS / HTML / CSS/ FIGMA
        style="width: 250px; height: auto; float: right; margin-left: 20px; border-radius: 8px;" />
 </div>
 
+![Halloween Cat](https://cdnl.iconscout.com/lottie/premium/thumb/halloween-cat-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--animal-black-evil-pet-scary-pack-festival-days-icons-9417347.gif)
 
 
 
