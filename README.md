@@ -28,3 +28,9 @@ Skills: C++/ JS / HTML / CSS/ FIGMA
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=onkardhanewar)  
 
+<div align="center"> 
+
+![snake gif](https://github.com/onkardhanewar/onkardhanewar/blob/output/github-snake-dark.svg)
+
+</div>
+
